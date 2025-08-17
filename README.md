@@ -1,12 +1,15 @@
 # Hi there, I'm Olabanji Olaniyan 👋
 
-## 🚀 About Me
+## Personal Profile
 
 Experienced Data Scientist with a strong background in mathematics and economic research. I am broadly
 interested in the practical implementation of machine learning and deep learning. My previous research has focused
 on using predictive modelling for the marketing, economic and finance sectors. Skilled in statistical analysis, Python
 for data wrangling and analysis, SQL for querying databases, and using machine learning libraries like Scikit-learn,
-TensorFlow, and pytorch for model building.  
+TensorFlow, and pytorch for model building. 
+
+**Bsc. Mathematics, Ibadan (2024).**
+**Msc. Data Science and Computational Intelligence, Coventry (2026).**
 
 ---
 
