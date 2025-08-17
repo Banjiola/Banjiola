@@ -37,33 +37,3 @@ TensorFlow, and pytorch for model building.
 ### Cloud & Tools
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
-## 🏆 Certifications 
-
-🎖️ **Microsoft Azure AI-900:** Azure AI Fundamentals  
-🎖️ **IBM Data Science Specialization** (10 Courses)  
-🎖️ **Google Data Analytics Professional Certificate** (10 Courses)  
-🎖️ **Supervised Machine Learning:** Regression and Classification  
-🎖️ **Deep Learning with PyTorch:** Image Segmentation  
-
----
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/olabanji-olaniyan-59a6b0198))
-
----
-
-<div align="center">
- <i>⭐️ "Memento Mori" ⭐️</i>
-</div>
