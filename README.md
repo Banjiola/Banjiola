@@ -8,8 +8,9 @@ on using predictive modelling for the marketing, economic and finance sectors. S
 for data wrangling and analysis, SQL for querying databases, and using machine learning libraries like Scikit-learn,
 TensorFlow, and pytorch for model building. 
 
-**Bsc. Mathematics, Ibadan (2024).**
-**Msc. Data Science and Computational Intelligence, Coventry (2026).**
+🎓**Bsc. Mathematics, Ibadan (2024).**
+
+🎓**Msc. Data Science and Computational Intelligence, Coventry (2026).**
 
 ---
 
