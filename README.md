@@ -93,9 +93,5 @@
 ---
 
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views"/>
-</div>
-
-<div align="center">
  <i>⭐️ "Memento Mori" ⭐️</i>
 </div>
