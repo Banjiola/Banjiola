@@ -49,37 +49,6 @@ TensorFlow, and pytorch for model building.
 
 ---
 
-## 🏆 Featured Projects
-
-### 🤖 [AI Text Summarization Web Application](https://github.com/yourusername/ai-text-summarizer)
-**NLP | BART | BERT | Full-Stack Development**
-- Built AI-powered web app combining Facebook's BART-large-cnn and BERT-base-NER
-- Deployed full-stack application with React frontend and Flask backend
-- **Technologies:** Python, TensorFlow, Transformers, React, Flask
-
-### 📈 [Air Quality Prediction Using Gaussian Process Regression](https://github.com/yourusername/air-quality-prediction)
-**Time Series Forecasting | Environmental Data | Statistical Modeling**
-- Developed ML pipeline for benzene concentration prediction
-- **Performance:** RMSE: 2.33, R²: 0.883 across 4 model comparison
-- **Technologies:** Python, Scikit-learn, GPR, Pandas, Statistical Analysis
-
-### 💼 [Customer Churn Prediction Model](https://github.com/yourusername/customer-churn-prediction)
-**Business Analytics | Classification | Feature Engineering**
-- Built comprehensive churn prediction system for customer retention strategies
-- Implemented multiple ML algorithms with extensive feature engineering
-- **Technologies:** Python, XGBoost, Random Forest, Pandas, Power BI
-
----
-
-## 🎯 Current Focus
-
-🔭 **Currently working on:** Advanced NLP applications and MLOps implementation  
-🌱 **Learning:** Computer Vision, Deep Learning architectures, Cloud deployment  
-👯 **Open to collaborate on:** Data science projects, research publications, open-source ML  
-💬 **Ask me about:** Machine Learning, NLP, Time Series Forecasting, Statistical Analysis  
-
----
-
 ## 🏆 Certifications 
 
 🎖️ **Microsoft Azure AI-900:** Azure AI Fundamentals  
