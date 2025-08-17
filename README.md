@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-🎓 **M.Sc. Data Science & Computational Intelligence** student at Coventry University  
-📊 **Experienced Data Analyst** with 3+ years in ML, NLP, and statistical modeling  
-🔬 **Mathematics graduate** with expertise in predictive modeling for marketing, economics & finance  
-💼 **Professional experience** at Techpoint Africa, University of Ibadan, and UNFPA research collaboration  
-🌍 **International research** on demographic dividend analysis in Nigeria  
+Experienced Data Scientist with a strong background in mathematics and economic research. I am broadly
+interested in the practical implementation of machine learning and deep learning. My previous research has focused
+on using predictive modelling for the marketing, economic and finance sectors. Skilled in statistical analysis, Python
+for data wrangling and analysis, SQL for querying databases, and using machine learning libraries like Scikit-learn,
+TensorFlow, and pytorch for model building.  
 
 ---
 
